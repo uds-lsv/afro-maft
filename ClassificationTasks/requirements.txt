@@ -1,0 +1,9 @@
+accelerate
+torch == 1.6
+datasets == 1.16.1
+sentencepiece == 0.1.94
+protobuf
+transformers == 4.13.0
+tensorboardX == 2.1
+absl-py == 0.11.0
+seqeval
