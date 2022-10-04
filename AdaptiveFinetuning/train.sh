@@ -1,0 +1,11 @@
+python run_mlm.py \
+	--model_name_or_path xlm-roberta-base \
+	--train_file train.txt \
+	--validation_file eval.txt \
+	--per_device_train_batch_size 10 \
+	--do_train \
+	--do_eval \
+	--num_train_epochs 3 \
+	--save_steps 100000 \
+	--overwrite_output_dir \
+	--output_dir afro_xlmr_base
