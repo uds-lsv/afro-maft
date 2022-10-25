@@ -32,6 +32,7 @@ bash run.sh
 For vocabulary reduction 
 
 
+For downstream tasks 
 
 ## Citation
 If you find this reposity useful, please consider citing our paper.
