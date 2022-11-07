@@ -32,7 +32,7 @@ bash train.sh
 For vocabulary reduction follow the instruction in `./VocabReduction/`. You need to follow two steps. Sub-token collection and the removal of unwanted sub-token from the PLM's vocabulary. 
 
 
-For downstream tasks 
+For downstream tasks, see `./ClassificationTasks/`.
 
 ## Citation
 If you find this reposity useful, please consider citing our paper.
