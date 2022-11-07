@@ -29,7 +29,7 @@ To perform MAFT or LAFT, we have provided the training scripts and instruction i
 bash train.sh
 ```
 
-For vocabulary reduction 
+For vocabulary reduction follow the instruction in `./VocabReduction/`. You need to follow two steps. Sub-token collection and the removal of unwanted sub-token from the PLM's vocabulary. 
 
 
 For downstream tasks 
