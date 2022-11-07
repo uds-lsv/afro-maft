@@ -23,10 +23,10 @@ In this work, we evaluated our models on three downstream tasks
 **Sentiment Analysis**: To obtain the sentiment classification dataset, please download it from [this repository](https://github.com/hausanlp/NaijaSenti)
 
 ### Training/Experiments
-To perform MAFT or LAFT, we have provided the training scripts
+To perform MAFT or LAFT, we have provided the training scripts and instruction in `./AdaptiveFinetuning/`. Follow the instruction and run the command
 
 ```
-bash run.sh
+bash train.sh
 ```
 
 For vocabulary reduction 
