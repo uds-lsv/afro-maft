@@ -8,10 +8,15 @@ In this paper, we propose multilingual adaptive fine-tuning (MAFT) as a method f
 ## Pretrained models
 
 We release 2 kinds of pretrained models (they include both the base and large versions):
-1. XLM-R + MAFT on 20 languages
+1. XLM-R + MAFT on 20 languages (i.e AfroXLMR)
 2. XLM-R + LAFT on 20 languages
 
 These models can be downloaded from [huggingface](https://huggingface.co/Davlan)
+
+Parameter Efficient Models:
+1. [Sparse Fine-tunings](https://huggingface.co/models?search=afroxlmr-base) on AfroXLMR
+2. MAD-X 2.0 Adapters on AfroXLMR on [Zenodo](https://zenodo.org/record/7416488#.Y5KWMezP3Sc)
+
 
 ### Datasets
 In this work, we evaluated our models on three downstream tasks
