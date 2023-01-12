@@ -17,6 +17,7 @@ Parameter Efficient Models:
 1. [Sparse Fine-tunings](https://huggingface.co/models?search=afroxlmr-base) on AfroXLMR
 2. MAD-X 2.0 Adapters on AfroXLMR on [Zenodo](https://zenodo.org/record/7416488#.Y5KWMezP3Sc)
 
+Monolingual texts used to train adapters and sparse fine-tunings can be found on [Zenodo](https://zenodo.org/record/6990609#.Y8AoCuzP22o)
 
 ### Datasets
 In this work, we evaluated our models on three downstream tasks
